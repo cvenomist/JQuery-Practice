@@ -1,0 +1,38 @@
+/* div#rush {
+    border: 1px solid red;
+} */
+
+div.one {
+    width : 60px;
+    height : 60px;
+    background-color : green;
+}
+
+div.two {
+    width : 60px;
+    height : 60px;
+    background-color : blueviolet;
+}
+
+div.three {
+    width : 60px;
+    height : 60px;
+    background-color : goldenrod;
+}
+
+div.container h3#panel {
+    display: none;
+    padding : 10px;
+}
+
+div.container div div#anim1 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+div.container div#anim2 {
+    background : green;
+    height : 100px;
+    width : 200px;
+}
